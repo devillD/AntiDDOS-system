@@ -99,7 +99,7 @@ if(isset($_SESSION['standby'])){
 		<div class="loading__msg">
 			<center>
 				<b style="font-size: 22px;">
-					<a href="https://github.com/Sanix-Darker/AntiDDOS-system" target="_blank" style="color: black;">ANTIDDOS</a> is checking....
+					<a href="https://github.com/Sanix-Darker/AntiDDOS-system" target="_blank" style="color: black;">Loading</a>...
 				</b>
 				<br><br>
 			Hi, don't worry, this is a simple security verfication, 
